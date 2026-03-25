@@ -1,0 +1,28 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+CERN-OHL-P-2.0
+
+Copyright Nathan Ferguson & Alexander Calvert (c) 2023
+
+Permission to use, copy, modify, and distribute this documentation and its
+associated files (the "Source") for any purpose is hereby granted without
+fee, provided that:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Source.
+
+2. Any products made using the Source shall carry a notice stating that the
+   product was made using the Source, and the Source is available under the
+   CERN-OHL-P-2.0 licence.
+
+THE SOURCE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOURCE OR THE USE OR OTHER DEALINGS IN THE
+SOURCE.
+
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+Full licence text: https://ohwr.org/cern_ohl_p_v2.txt
